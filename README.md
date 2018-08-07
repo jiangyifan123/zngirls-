@@ -1,0 +1,1 @@
+clone后运行dist的test.exe
