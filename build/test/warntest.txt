@@ -1,7 +1,7 @@
 missing module named resource - imported by posix, F:\爬虫实战\test.py
 missing module named posix - imported by os, F:\爬虫实战\test.py
 missing module named _posixsubprocess - imported by subprocess, F:\爬虫实战\test.py
-missing module named org - imported by pickle, F:\爬虫实战\test.py
+missing module named 'org.python' - imported by pickle, F:\爬虫实战\test.py, xml.sax
 missing module named readline - imported by cmd, code, pdb, F:\爬虫实战\test.py
 excluded module named _frozen_importlib - imported by importlib, importlib.abc, F:\爬虫实战\test.py
 missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, F:\爬虫实战\test.py
@@ -14,4 +14,4 @@ missing module named termios - imported by tty, getpass, F:\爬虫实战\test.py
 missing module named grp - imported by shutil, tarfile, F:\爬虫实战\test.py
 missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, F:\爬虫实战\test.py
 missing module named _dummy_threading - imported by dummy_threading, F:\爬虫实战\test.py
-missing module named 'org.python' - imported by copy, F:\爬虫实战\test.py, xml.sax
+missing module named org - imported by copy, F:\爬虫实战\test.py
